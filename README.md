@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/akhtarul-islam-rahat-097264146)
 
+<!--
 - 📄 Know about my experiences [Rahat_Resume](https://drive.google.com/file/d/1Otsgpejn7CAFkaGJAMC9-RzA9jzmG-Xa/view?usp=sharing)
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
