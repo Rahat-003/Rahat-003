@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahat-003&layout=compact&theme=tokyonight&hide=html)](https://github.com/Rahat-003)
 
-[![Shakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahat-003&count_private=true&show_icons=true&theme=radical)](https://github.com/Rahat-003/github-readme-stats)
+[![Rahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahat-003&count_private=true&show_icons=true&theme=radical)](https://github.com/Rahat-003/github-readme-stats)
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rahat-003&theme=highcontrast&border_radius=6)](https://git.io/streak-stats)
+
