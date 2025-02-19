@@ -16,13 +16,17 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m interested in `Node JS`, `Express JS`, `MongoDB`, `Competitive Programming`
 
-- 🌱 I’m currently working as a **Backend Developer**
+- 🌱 I’m currently working as a **Software Engineer**
 
 - 💬 Ask me about `Data Structure & Algorithms`, `Problem Solving`
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/akhtarul-islam-rahat-097264146)
 
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahat-003&layout=compact&theme=tokyonight&hide=html)](https://github.com/Rahat-003)
 
+[![Shakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahat-003&count_private=true&show_icons=true&theme=radical)](https://github.com/Rahat-003/github-readme-stats)
+
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
@@ -30,5 +34,6 @@ Here are some ideas to get you started:
 </p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahat-003&show_icons=true&locale=en" alt="rahat-003" /></p>
+-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahat-003&" alt="rahat-003" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rahat-003&theme=highcontrast&border_radius=6)](https://git.io/streak-stats)
