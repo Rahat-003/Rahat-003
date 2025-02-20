@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/akhtarul-islam-rahat-097264146)
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahat-003&layout=compact&theme=tokyonight&hide=html)](https://github.com/Rahat-003)
 
-[![Rahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahat-003&count_private=true&show_icons=true&theme=radical)](https://github.com/Rahat-003/github-readme-stats)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Rahat-003&card_width=495&layout=compact&theme=highcontrast&hide=swift,c-sharp'/>
+
+[![Rahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahat-003&card_width=495&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/Rahat-003/github-readme-stats)
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
@@ -36,5 +37,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahat-003&show_icons=true&locale=en" alt="rahat-003" /></p>
 -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rahat-003&theme=highcontrast&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rahat-003&theme=highcontrast&border_radius=4)](https://git.io/streak-stats)
 
